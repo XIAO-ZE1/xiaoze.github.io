@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>XIAOZE</title>
+  
+  <subtitle>纵有疾风起，人生不言弃</subtitle>
+  <link href="https://xiao-ze1.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://xiao-ze1.github.io/"/>
+  <updated>2024-03-11T02:14:05.060Z</updated>
+  <id>https://xiao-ze1.github.io/</id>
+  
+  <author>
+    <name>XIAOZE</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://xiao-ze1.github.io/2024/03/11/hello/"/>
+    <id>https://xiao-ze1.github.io/2024/03/11/hello/</id>
+    <published>2024-03-11T02:11:43.000Z</published>
+    <updated>2024-03-11T02:14:05.060Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#Hello！I’m xiaoze!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;纵有疾风起，人生不言弃&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;这是我的第一篇测试博客&lt;/strong&gt;&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>test_my_site</title>
+    <link href="https://xiao-ze1.github.io/2024/03/10/test-my-site/"/>
+    <id>https://xiao-ze1.github.io/2024/03/10/test-my-site/</id>
+    <published>2024-03-10T13:42:37.000Z</published>
+    <updated>2024-03-10T13:42:37.495Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://xiao-ze1.github.io/2024/03/10/hello-world/"/>
+    <id>https://xiao-ze1.github.io/2024/03/10/hello-world/</id>
+    <published>2024-03-10T13:41:02.001Z</published>
+    <updated>2024-03-10T13:19:18.663Z</updated>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
