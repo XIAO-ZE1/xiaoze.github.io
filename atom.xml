@@ -6,7 +6,7 @@
   <link href="https://xiao-ze1.github.io/atom.xml" rel="self"/>
   
   <link href="https://xiao-ze1.github.io/"/>
-  <updated>2024-03-11T02:14:05.060Z</updated>
+  <updated>2024-03-11T09:45:58.396Z</updated>
   <id>https://xiao-ze1.github.io/</id>
   
   <author>
@@ -21,31 +21,14 @@
     <link href="https://xiao-ze1.github.io/2024/03/11/hello/"/>
     <id>https://xiao-ze1.github.io/2024/03/11/hello/</id>
     <published>2024-03-11T02:11:43.000Z</published>
-    <updated>2024-03-11T02:14:05.060Z</updated>
+    <updated>2024-03-11T09:45:58.396Z</updated>
     
     
       
       
-    <summary type="html">&lt;p&gt;#Hello！I’m xiaoze!&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;纵有疾风起，人生不言弃&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;这是我的第一篇测试博客&lt;/strong&gt;&lt;/p&gt;
-</summary>
+    <summary type="html">&lt;h1 id=&quot;Hello！I’m-xiaoze&quot;&gt;&lt;a href=&quot;#Hello！I’m-xiaoze&quot; class=&quot;headerlink&quot; title=&quot;Hello！I’m xiaoze!&quot;&gt;&lt;/a&gt;Hello！I’m xiaoze!&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p</summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>test_my_site</title>
-    <link href="https://xiao-ze1.github.io/2024/03/10/test-my-site/"/>
-    <id>https://xiao-ze1.github.io/2024/03/10/test-my-site/</id>
-    <published>2024-03-10T13:42:37.000Z</published>
-    <updated>2024-03-10T13:42:37.495Z</updated>
-    
     
     
     
